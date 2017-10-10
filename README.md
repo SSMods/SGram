@@ -1,4 +1,4 @@
-# SGram Tool With unlimed proxy
+# SGram Tool With unlimetid proxy
 Edit Py SSMods
 
 # To Run
