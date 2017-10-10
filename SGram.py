@@ -139,7 +139,7 @@ class Instabrute():
 
 
 
-instabrute = Instabrute(Input('################################\n#          SGramTool            #\n################################\n#       Coded By SSMods        #\n################################\n#                              #\n#     Blog : slp-mm.zz.mu      #\n#                              #\n#   Email : k3ef@hotmail.com   #\n#                              #\n################################\nPlease enter a username: '))
+instabrute = Instabrute(Input('################################\n#          SGramTool           #\n################################\n#       Coded By SSMods        #\n################################\n#                              #\n#     Blog : slp-mm.zz.mu      #\n#                              #\n#   Email : k3ef@hotmail.com   #\n#                              #\n################################\nPlease enter a username: '))
 
 try:
 	delayLoop = int(Input('[*] Please add delay between the bruteforce action (in seconds): ')) 
